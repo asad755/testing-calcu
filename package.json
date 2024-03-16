@@ -1,0 +1,26 @@
+{
+  "name": "testing-calcu",
+  "version": "1.0.0",
+  "description": "one simple typescrip,node.js and dependeece",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asad755/testing_calcu.git"
+  },
+  "author": "asadullah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asad755/testing_calcu/issues"
+  },
+  "homepage": "https://github.com/asad755/testing_calcu#readme",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
